@@ -9,7 +9,7 @@
 #include "stm32mp157c-dk2.dts"
 
 / {
-	model = "STMicroelectronics STM32MP157C-DK2 configured to run Linux A7 examples";
+	model = "THATICO STM32MP151AAA3 1GB V1.1 Board configured to run Linux A7 examples";
 	compatible = "st,stm32mp157c-dk2-a7-examples", "st,stm32mp157c-dk2", "st,stm32mp157";
 };
 
